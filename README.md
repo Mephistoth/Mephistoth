@@ -7,27 +7,15 @@ Soy un profesional técnico titulado de **Duoc UC** enfocado en el desarrollo de
 
 ### 🛠️ Mi Stack Tecnológico
 
-**Backend & Lógica**
-![Python](https://shields.io)
-![Django](https://shields.io)
-![Java](https://shields.io)
-
-**Frontend & Maquetación**
-![JavaScript](https://shields.io)
-![Bootstrap](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-
-**Bases de Datos & Entornos**
-![PostgreSQL](https://shields.io)
-![SQLite](https://shields.io)
-![Git](https://shields.io)
+* ⚙️ **Backend & Lógica:** Python | Django | Java
+* 🎨 **Frontend & Maquetación:** JavaScript | HTML5 | CSS3 | Bootstrap
+* 🗄️ **Bases de Datos & Entornos:** PostgreSQL | SQLite | Oracle | Git & GitHub
 
 ---
 
 ### 🎯 Proyectos Destacados
 Actualmente mi proyecto principal en exhibición es **El Club del Gran Gusano**, una aplicación web Full-Stack construida bajo metodología Scrum que cuenta con:
-* Autenticación de usuarios completa.
+* Autenticación de usuarios completa (Registro y Login).
 * Operaciones CRUD conectadas a una base de datos PostgreSQL.
 * Carga y gestión asíncrona de imágenes mediante la API de Cloudinary.
 * Despliegue listo en entornos de producción (Render).
