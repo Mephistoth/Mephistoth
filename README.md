@@ -23,5 +23,5 @@ Actualmente mi proyecto principal en exhibición es **El Club del Gran Gusano**,
 ---
 
 ### 📬 Conectemos
-* 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* 💼 **LinkedIn:** [://linkedin.com]([https://www.://linkedin.com](https://www.linkedin.com/in/felipe-soto-908077369/))
 * 📧 **Email:** felipeignacio28soto@gmail.com
